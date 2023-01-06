@@ -12,8 +12,8 @@ I'll not take any risk for what you do with this code!!!!.
 
 ---
 ### Desktop View:
-![Screenshothttps://raw.githubusercontent.com/franzcassano/Cassano-Webshell/main/image1.jpg)
+![Screenshot](https://raw.githubusercontent.com/franzcassano/Cassano-Webshell/main/image1.jpg)
 
 ---
 ### Mobile View:
-![Screenshothttps://raw.githubusercontent.com/franzcassano/Cassano-Webshell/main/image2.jpg)
+![Screenshot](https://raw.githubusercontent.com/franzcassano/Cassano-Webshell/main/image2.jpg)
